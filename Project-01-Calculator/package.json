@@ -1,0 +1,21 @@
+{
+  "name": "@muhammadfaizan20/simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple command-line calculator",
+  "bin": {
+    "calc": "./dist/index.js"
+  },
+  "keywords": [
+    "calculator",
+    "command-line"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.3.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
