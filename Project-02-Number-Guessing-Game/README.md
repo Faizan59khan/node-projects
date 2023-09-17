@@ -19,8 +19,6 @@ To use the JavaScript Calculator CLI Tool, you need to have Node.js installed on
 
 npm install -g @muhammadfaizan20/number-guessing-game
 
-Feel free to try out different calculations and explore the features of the calculator tool.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
