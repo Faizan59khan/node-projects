@@ -9,7 +9,7 @@ This tool utilizes the following npm packages:
 - [chalk](https://www.npmjs.com/package/chalk): A library for styling command-line output with colors.
 - [inquirer](https://www.npmjs.com/package/inquirer): A collection of common interactive command-line user interfaces.
 
-## Give ii a TRY!
+## Give it a TRY!
 
 npx calc
 
