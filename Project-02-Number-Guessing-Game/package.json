@@ -1,6 +1,6 @@
 {
   "name": "@muhammadfaizan20/number-guessing-game",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Number Gusssing Game",
   "bin": {
     "number-guess-game": "./dist/index.js"
