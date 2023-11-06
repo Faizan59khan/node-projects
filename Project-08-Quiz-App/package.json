@@ -1,9 +1,9 @@
 {
-  "name": "@muhammadfaizan20/textBasedAdventureGame",
+  "name": "project-08-quiz-app",
   "version": "1.0.0",
-  "description": "Text Based Adventure Game",
+  "description": "Quiz App",
   "bin": {
-    "text-based-adventure-game": "dist/index.js"
+    "quiz-app": "dist/index.js"
   },
   "main": "./dist/index.js",
   "scripts": {
