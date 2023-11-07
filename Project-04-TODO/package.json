@@ -1,0 +1,26 @@
+{
+	"name": "@muhammadfaizan20/todo",
+	"version": "1.0.0",
+	"description": "A simple command-line calculator",
+	"bin": {
+		"calc": "./dist/index.js"
+	},
+	"main": "./dist/index.js",
+	"scripts": {
+		"start": "node ."
+	},
+	"type": "module",
+	"author": "Muhammad Faizan",
+	"license": "MIT",
+	"publishConfig": {
+		"access": "public",
+		"registry": "https://registry.npmjs.org/"
+	},
+	"dependencies": {
+		"chalk": "^5.3.0",
+		"inquirer": "^9.2.10"
+	},
+	"devDependencies": {
+		"@types/inquirer": "^9.0.3"
+	}
+}
