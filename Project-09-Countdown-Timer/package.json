@@ -1,0 +1,30 @@
+{
+	"name": "@muhammadfaizan20/countdown-timer",
+	"version": "1.0.0",
+	"description": "countdown-timer",
+	"bin": {
+		"calc": "./dist/index.js"
+	},
+	"main": "./dist/index.js",
+	"scripts": {
+		"start": "node ."
+	},
+	"type": "module",
+	"keywords": [
+		"countdown-timer",
+		"command-line"
+	],
+	"author": "Muhammad Faizan",
+	"license": "MIT",
+	"publishConfig": {
+		"access": "public",
+		"registry": "https://registry.npmjs.org/"
+	},
+	"dependencies": {
+		"chalk": "^5.3.0",
+		"inquirer": "^9.2.10"
+	},
+	"devDependencies": {
+		"@types/inquirer": "^9.0.3"
+	}
+}
